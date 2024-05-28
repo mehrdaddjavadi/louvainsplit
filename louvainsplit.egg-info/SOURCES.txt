@@ -1,0 +1,13 @@
+LICENCE
+README.md
+setup.py
+louvainsplit/__init__.py
+louvainsplit/feature_extraction.py
+louvainsplit/louvain_algorithm.py
+louvainsplit.egg-info/PKG-INFO
+louvainsplit.egg-info/SOURCES.txt
+louvainsplit.egg-info/dependency_links.txt
+louvainsplit.egg-info/requires.txt
+louvainsplit.egg-info/top_level.txt
+louvainsplit/tests/__init__.py
+louvainsplit/tests/test_louvain_algorithm.py

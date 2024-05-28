@@ -1,0 +1,4 @@
+torch
+networkx
+numpy
+python-louvain

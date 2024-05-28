@@ -1,9 +1,16 @@
 from setuptools import setup, find_packages
+from pathlib import Path
+
+# Read the contents of your README file
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='louvainsplit',
-    version='0.1.0',
+    version='0.2.0.3',
     description='Efficient graph partitioning using LouvainSplit algorithm',
+    long_description=long_description,
+    long_description_content_type='text/markdown',
     author='Mehrdad Javadi',
     author_email='mehrdaddjavadi@gmail.com',
     url='https://github.com/mehrdaddjavadi/louvainsplit',

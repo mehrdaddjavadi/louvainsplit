@@ -1,6 +1,30 @@
+Metadata-Version: 2.1
+Name: louvainsplit
+Version: 0.2.0.2
+Summary: Efficient graph partitioning using LouvainSplit algorithm
+Home-page: https://github.com/mehrdaddjavadi/louvainsplit
+Author: Mehrdad Javadi
+Author-email: mehrdaddjavadi@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: torch
+Requires-Dist: networkx
+Requires-Dist: numpy
+Requires-Dist: python-louvain
+
 # LouvainSplit
 
-LouvainSplit is a Python package for efficient graph partitioning using the LouvainSplit algorithm, based on the paper by Mehrdad Javadi, Hossein Aghighi and Mohsen Azadbakht.
+LouvainSplit is a Python package for efficient graph partitioning using the LouvainSplit algorithm, based on the paper by Mehrdad Javadi.
 
 ## Abstract
 
