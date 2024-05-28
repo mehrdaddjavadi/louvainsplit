@@ -1,3 +1,5 @@
+![LouvainSplit Logo](https://github.com/mehrdaddjavadi/louvainsplit/blob/master/logo.jpg)
+
 # LouvainSplit
 
 LouvainSplit is a Python package for efficient graph partitioning using the LouvainSplit algorithm, based on the paper by Mehrdad Javadi, Hossein Aghighi and Mohsen Azadbakht.
